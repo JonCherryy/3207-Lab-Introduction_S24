@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
-char randchar();
+#include "random.c"
 
 int main()
 {
